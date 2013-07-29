@@ -4,3 +4,4 @@
 *.ear
 *.iml
 target
+.idea
